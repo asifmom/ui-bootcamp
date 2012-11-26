@@ -1,0 +1,38 @@
+
+.leftnav{
+    background: yellow;
+    width: 20%;
+    height: 500px;
+    display: inline-block;
+    border: 0;
+}
+
+.content{
+    background: #006400;
+    width: 80%;
+    height: 500px;
+    display: inline-block;
+}
+
+.body,body{
+    border: 0;
+    margin: 0;
+    padding: 0;
+
+}
+
+.header{
+    background : red;
+    border:10px;
+    margin : 5px ;
+    height: 70px;
+
+}
+
+.footer{
+    background : #ff69b4;
+    border:10px;
+    margin : 5px ;
+    height: 70px;
+
+}
